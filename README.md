@@ -1,3 +1,3 @@
 # website
-Hacktober fest
+Hacktoberfest
 personal website
